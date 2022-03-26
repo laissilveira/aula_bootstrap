@@ -1,0 +1,13 @@
+#Home {
+    background-color: #f8f9fa;
+}
+
+.margin {
+    padding-top: 20px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+}
+
+.left-aligned {
+    text-align: left;
+}
